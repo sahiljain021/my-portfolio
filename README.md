@@ -28,23 +28,24 @@ https://d26ighm9kys6wz.cloudfront.net/
 
 ### Website Running
 
-![Website](screenshots/website.png)
+![Website](screenshots/website.jpg)
 
 ### S3 Bucket (Private)
 
-![S3](screenshots/s3.png)
+![S3](screenshots/s3.jpg)
+![S3](screenshots/s3-2.jpg)
 
 ### CloudFront Distribution
 
-![CloudFront](screenshots/cloudfront.png)
+![CloudFront](screenshots/cloudfront.jpg)
 
 ### Access Denied (Direct S3 Access)
 
-![Access Denied](screenshots/access-denied.png)
+![Access Denied](screenshots/access-denied-via-s3.jpg)
 
 ### GitHub Actions CI/CD
 
-![CI/CD](screenshots/github-actions.png)
+![CI/CD](screenshots/job-deployed.jpg)
 
 ## 💼 Key Skills Demonstrated
 
